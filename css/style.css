@@ -1,0 +1,23 @@
+/* global */
+
+* {
+    font-family: 'Helvetica Now Display', 'Helvetica Neue', 'Helvetica', sans-serif
+}
+
+/* navigation bar */
+
+nav {
+    top: 0; 
+    left: 0;
+    width: 100%;
+    display: inline-block;
+}
+
+nav img {
+    max-width: 200px;
+    position: left;
+}
+
+.name {
+    
+}
