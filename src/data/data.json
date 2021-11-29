@@ -1,0 +1,38 @@
+[
+    {
+      "ProjectNumber": 1,
+      "ProjectName": "Mitigating AI Bias in Voice Recognition",
+      "ProjectRole": "Research Lead",
+      "Image1": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_smallImage.png",
+      "Image2": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_banner.png",
+      "ProjectOverview": "This is a description of the project. Here is what we did and how we did it. ",
+      "To": "/01"
+    },
+    {
+      "ProjectNumber": 2,
+      "ProjectName": "Move.",
+      "ProjectRole": "Design Lead",
+      "Image1": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_banner.png",
+      "Image2": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_smallImage.png",
+      "ProjectOverview": "This is a description of the project. Here is what we did and how we did it. ",
+      "To": "/02"
+    },
+    {
+      "ProjectNumber": 3,
+      "ProjectName": "KidsTeam UW",
+      "ProjectRole": "Undergraduate Researcher",
+      "Image1": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_smallImage.png",
+      "Image2": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_banner.png",
+      "ProjectOverview": "This is a description of the project. Here is what we did and how we did it. ",
+      "To": "/03"
+    },
+    {
+      "ProjectNumber": 4,
+      "ProjectName": "HumaneOS",
+      "ProjectRole": "Product Designer",
+      "Image1": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_banner.png",
+      "Image2": "C:\\Users\\harki\\Desktop\\CMU\\portfolio\\img\\HumaneOS_smallImage.png",
+      "ProjectOverview": "This is a description of the project. Here is what we did and how we did it. ",
+      "To": "/04"
+    }
+   ]
